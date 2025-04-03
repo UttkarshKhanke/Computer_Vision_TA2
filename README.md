@@ -94,4 +94,3 @@ pip install opencv-python numpy matplotlib
 👨‍💻 Author
 Uttkarsh Khanke
 Created as part of a Computer Vision project implementing feature detection algorithms.
-s
